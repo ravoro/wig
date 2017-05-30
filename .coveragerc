@@ -1,0 +1,10 @@
+[run]
+branch = True
+data_file = tmp/.coverage
+source = wig/
+
+[report]
+precision = 2
+
+[html]
+directory = tmp/htmlcov

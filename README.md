@@ -1,5 +1,7 @@
 # WIG _"the Web Image Getter"_
 
+[![Build Status](https://travis-ci.org/ravoro/wig.svg?branch=master)](https://travis-ci.org/ravoro/wig)
+
 Framework for locating and downloading images from HTML web pages.
 
 ## How it works
@@ -18,3 +20,4 @@ The scraper's `run` method takes a URL as an argument and does the following:
 ## Tests
 - Run tests: `./scripts/test.sh`
 - Run coverage: `./scripts/test_coverage.sh`
+

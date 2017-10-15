@@ -1,6 +1,7 @@
 # WIG _"the Web Image Getter"_
 
 [![Build Status](https://travis-ci.org/ravoro/wig.svg?branch=master)](https://travis-ci.org/ravoro/wig)
+[![BCH compliance](https://bettercodehub.com/edge/badge/ravoro/wig?branch=master)](https://bettercodehub.com/)
 
 Framework for locating and downloading images from HTML web pages.
 
